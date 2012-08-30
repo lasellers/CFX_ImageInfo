@@ -131,7 +131,7 @@ public class CFX_ImageInfo implements CustomTag {
 		try {
 			//
 			response.setVariable("ImageInfoDescription", "OPEN SOURCE. FREEWARE. Java. Returns information on TGA,GIF,JPG/JFIF,PNG,BMP,PCX,TIFF and PSD, etc images. Written by Lewis A. Sellers, webmaster@intrafoundation.com. Copyright (c) 1999, 2000, 2003, 2012. Intrafoundation Software, http://www.intrafoundation.com.");
-			response.setVariable("ImageInfoVersion", "4.0a, August 8th 2012");
+			response.setVariable("ImageInfoVersion", "4.0a, August 30th 2012");
 			
 			//
 			response.setVariable("ImageInfoFolder", "");
